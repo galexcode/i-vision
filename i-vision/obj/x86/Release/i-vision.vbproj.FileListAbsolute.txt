@@ -1,0 +1,13 @@
+C:\Users\Ryan\documents\visual studio 2010\Projects\i-vision\i-vision\bin\Release\i-vision.exe
+C:\Users\Ryan\documents\visual studio 2010\Projects\i-vision\i-vision\bin\Release\i-vision.pdb
+C:\Users\Ryan\documents\visual studio 2010\Projects\i-vision\i-vision\bin\Release\i-vision.xml
+C:\Users\Ryan\documents\visual studio 2010\Projects\i-vision\i-vision\bin\Release\Skybound.Gecko.dll
+C:\Users\Ryan\documents\visual studio 2010\Projects\i-vision\i-vision\bin\Release\Skybound.Gecko.xml
+C:\Users\Ryan\documents\visual studio 2010\Projects\i-vision\i-vision\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ryan\documents\visual studio 2010\Projects\i-vision\i-vision\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Ryan\documents\visual studio 2010\Projects\i-vision\i-vision\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Ryan\documents\visual studio 2010\Projects\i-vision\i-vision\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Ryan\documents\visual studio 2010\Projects\i-vision\i-vision\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Ryan\documents\visual studio 2010\Projects\i-vision\i-vision\obj\x86\Release\i-vision.exe
+C:\Users\Ryan\documents\visual studio 2010\Projects\i-vision\i-vision\obj\x86\Release\i-vision.xml
+C:\Users\Ryan\documents\visual studio 2010\Projects\i-vision\i-vision\obj\x86\Release\i-vision.pdb
